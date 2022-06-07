@@ -241,7 +241,7 @@ components:
           example: '1997-10-31'
         emailVerified:
           type: boolean
-          description: Set to true if the user's email has been verified.
+          description: Set to true if the user's email has been verified. testing testing 123
         createDate:
           type: string
           format: date
