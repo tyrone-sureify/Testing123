@@ -193,9 +193,11 @@ components:
           x-faker: name.firstName
         lastName:
           type: string
+          x-faker: name.lastName
         email:
           type: string
           format: email
+          x-faker: internet.email
         dateOfBirth:
           type: string
           format: date
