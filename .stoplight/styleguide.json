@@ -1,6 +1,7 @@
 {
   "name": "Testing123",
   "description": "",
+  "spectralExtends": [],
   "formats": [
     "oas2",
     "oas3",

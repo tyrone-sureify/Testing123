@@ -190,6 +190,7 @@ components:
           description: Unique identifier for the given user.
         firstName:
           type: string
+          x-faker: name.firstName
         lastName:
           type: string
         email:
